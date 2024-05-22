@@ -1,4 +1,4 @@
-# Endless Runner
+# Endless Runner 🏃
 
 ## Description
 Endless Runner is an infinite running game where the player must dodge obstacles and accumulate points to achieve the highest possible score. This game is a prototype designed following the Unity Learn: Junnior Programmer pathway!
